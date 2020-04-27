@@ -1,0 +1,4 @@
+name: FakeMotd
+main: me.fallenbreath.fakemotd.FakeMotd
+version: 1.0
+author: Fallen_Breath
